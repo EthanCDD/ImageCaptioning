@@ -5,3 +5,4 @@ This task is mainly focuses on the performance of models of LSTM/LSTM+Attention/
 
 From the results, the frame work of encoder-decoder can efficiently extract the image features and generate a reasonable discription.
 
+![Flower image captioning](https://github.com/EthanCDD/ImageCaptioning/blob/master/Transformer_vis.png)
